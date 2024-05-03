@@ -1,0 +1,14 @@
+.f{
+    border: 2px solid blue;
+    margin: 10%;
+    padding: 2% 20% 2% 10%;
+    background-color: rgb(185, 236, 240);
+}
+body{
+    background-image: url(sea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+.select{
+    width: 300px;
+}
