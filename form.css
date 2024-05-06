@@ -1,7 +1,7 @@
 .f{
     border: 2px solid blue;
-    margin: 10%;
-    padding: 2% 20% 2% 10%;
+    margin: 300px 260px 0px;
+    padding-left: 100px;
     background-color: rgb(185, 236, 240);
 }
 body{
@@ -11,4 +11,17 @@ body{
     
 .select{
     width: 300px;
+}
+.heading{
+    padding-left: 30%;
+}
+.in{
+    margin-left: 40%;
+}
+.d{
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.table{
+    padding-left: 125px;
 }
