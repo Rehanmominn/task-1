@@ -1,0 +1,35 @@
+.body{
+    background-color: rgb(26, 158, 26);
+}
+.d{
+    background-color: #fff;
+    margin: 90px 425px 90px 425px;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid yellow;
+}
+.name{
+    width: 300px;
+    height: 30px;
+
+}
+.number{
+    width: 300px;
+    height: 30px;
+
+}
+.subject{
+    width: 300px;
+    height: 30px;
+}
+.email{
+    width: 300px;
+    height: 30px;
+}
+.sub{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: green;
+}
